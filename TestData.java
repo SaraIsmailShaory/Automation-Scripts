@@ -17,6 +17,6 @@ public class TestData {
 
 	public WebDriver driver;
 	public String baseURL = "http://magento-demo.lexiconn.com/";
-	public String DriverPath = "C:\\Users\\sarat\\Downloads\\chromedriver.exe";
+	public String DriverPath = "Browser path .exe";
 
 }
